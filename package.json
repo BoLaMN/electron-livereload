@@ -1,11 +1,8 @@
 {
   "name": "electron-livereload",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "electron live reload",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/BoLaMN/electron-livereload.git"
-  },
+  "repository": "https://github.com/BoLaMN/electron-livereload.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
