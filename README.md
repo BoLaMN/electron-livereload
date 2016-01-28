@@ -50,3 +50,5 @@ module.exports = (grunt) ->
     grunt.registerTask 'reload-electron', ->
       electron.reload()
   ```
+
+License: ISC 
